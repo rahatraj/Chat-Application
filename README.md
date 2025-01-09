@@ -83,7 +83,7 @@ ChitChat is a full-stack real-time chat application that allows users to send te
    ```
 3. Create a `.env` file in the `frontend` folder and add the following variables:
    ```env
-   REACT_APP_API_URL=http://localhost:5000
+   REACT_APP_API_URL=http://localhost:3030
    ```
 4. Start the frontend development server.
    ```bash
