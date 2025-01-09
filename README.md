@@ -1,6 +1,6 @@
-# Chatify - Real-time Chat Application
+# ChitChat - Real-time Chat Application
 
-Chatify is a full-stack real-time chat application that allows users to send text messages and images, manage their accounts, and engage in dynamic conversations. The app is built with a powerful backend and an interactive frontend, providing a seamless chat experience.
+ChitChat is a full-stack real-time chat application that allows users to send text messages and images, manage their accounts, and engage in dynamic conversations. The app is built with a powerful backend and an interactive frontend, providing a seamless chat experience.
 
 ## Features
 
@@ -60,7 +60,7 @@ Chatify is a full-stack real-time chat application that allows users to send tex
    ```
 3. Create a `.env` file in the `backend` folder and add the following variables:
    ```env
-   PORT=5000
+   PORT=3030
    MONGO_URI=your_mongodb_connection_string
    JWT_SECRET=your_jwt_secret
    CLOUDINARY_CLOUD_NAME=your_cloudinary_cloud_name
@@ -91,7 +91,7 @@ Chatify is a full-stack real-time chat application that allows users to send tex
    ```
 
 ### Running the Application
-- Open your browser and navigate to `http://localhost:3000`.
+- Open your browser and navigate to `http://localhost:3030`.
 
 ## Project Structure
 
